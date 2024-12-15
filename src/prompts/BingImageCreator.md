@@ -6,6 +6,6 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  |Criar uma capa para um podcast sobre finanças                                                     |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Crie a imagem de um homem em uma sala com equipamentos de audio visual gravando um podcast. |
 
 
