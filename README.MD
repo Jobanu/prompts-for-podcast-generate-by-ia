@@ -64,7 +64,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="./assets/Capa_Podcast.jpg"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJOBANU<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/Jobanu?tab=repositories">
@@ -87,4 +87,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ Avec Plaisir 💜 por [Jobanu]
